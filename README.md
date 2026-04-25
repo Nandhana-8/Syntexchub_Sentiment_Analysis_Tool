@@ -31,6 +31,8 @@ python sentiment_analysis.py
 
 Enter your review: This product is amazing  
 Predicted Sentiment: Positive
+<img width="1080" height="820" alt="Screenshot_20260425_135337" src="https://github.com/user-attachments/assets/cdfdf4b9-b020-4e70-bcf1-0fd9cf40cf06" />
+
 
 ## 📚 Internship Project
 Submitted for Syntexchub Artificial Intelligence Internship.
